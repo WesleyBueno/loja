@@ -1,6 +1,6 @@
-  <!---barra de navegação-->
-        
-  <nav class="navbar navbar-expand-lg ">
+<!---barra de navegação-->
+
+<nav class="navbar navbar-expand-lg ">
     <a class="navbar-brand" href="#">(Re)vista-se</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado"
         aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
@@ -16,13 +16,13 @@
                 <a class="nav-link" routerLink='/shop'>Shop</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link " href="#">Troca</a>
+                <a class="nav-link " routerLink='/troca'>Troca</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link " href="#">Nossa Lojas</a>
+                <a class="nav-link " routerLink='/lojas'>Nossa Lojas</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link " href="#">Clube(re)</a>
+                <a class="nav-link " routerLink='/clube'>Clube(re)</a>
             </li>
             <i class="fas fa-shopping-cart"></i>
         </ul>
@@ -35,7 +35,7 @@
         <div *ngIf="authService.logado()">
             <a class="btn btn-outline-light" (click)="deslogar()">Sair</a>
         </div>
-        
+
         <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
             <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Pesquisar</button>
@@ -44,5 +44,3 @@
 </nav>
 
 <!--/Barra de navegação-->
-
-
