@@ -125,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "reVestir"
+  "defaultProject": "reVestir",
+  "cli": {
+    "analytics": "567ae09a-0300-4fbd-8a6d-eb8243acb799"
+  }
 }
