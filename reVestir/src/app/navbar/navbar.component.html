@@ -24,13 +24,19 @@
             <li class="nav-item">
                 <a class="nav-link " routerLink='/clube'>Clube(re)</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link " routerLink='/sobre'>Sobre Nós</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link " routerLink='/blog'>Blog</a>
+            </li>
             <i class="fas fa-shopping-cart"></i>
         </ul>
         <div *ngIf="!authService.logado()">
-            <a class="btn btn-outline-light" routerLink="/login">Login</a>
+            <a class="btn btn-outline-light mr-2" routerLink="/login">Login</a>
         </div>
         <div *ngIf="!authService.logado()">
-            <a class="btn btn-outline-light" routerLink="/cadastrar">Cadastrar</a>
+            <a class="btn btn-outline-light mr-2" routerLink="/cadastrar">Cadastrar</a>
         </div>
         <div *ngIf="authService.logado()">
             <a class="btn btn-outline-light" (click)="deslogar()">Sair</a>
