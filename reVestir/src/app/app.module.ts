@@ -14,6 +14,7 @@ import { ClubeComponent } from './clube/clube.component';
 import { CarrinhoComponent } from './carrinho/carrinho.component';
 import { CadastrarComponent } from './cadastrar/cadastrar.component';
 import { LoginComponent } from './login/login.component';
+import { BlogComponent } from './blog/blog.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,8 @@ import { LoginComponent } from './login/login.component';
     ClubeComponent,
     CarrinhoComponent,
     CadastrarComponent,
-    LoginComponent
+    LoginComponent,
+    BlogComponent
   ],
   imports: [
     BrowserModule,
