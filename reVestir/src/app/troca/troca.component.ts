@@ -12,4 +12,10 @@ export class TrocaComponent implements OnInit {
   ngOnInit(): void {
   }
 
+
+alerta(){
+  
+  alert('Usuário cadastrado com sucesso!')
+}
+
 }
