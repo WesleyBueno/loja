@@ -10,6 +10,7 @@ import { AuthGuard } from './service/auth.guard';
 import { ShopComponent } from './shop/shop.component';
 import { TrocaComponent } from './troca/troca.component';
 import { SobreComponent } from './sobre/sobre.component';
+
 const routes: Routes = [
   {path: '', redirectTo: 'home', pathMatch: 'full'},
   {path: 'home', component: HomeComponent},
