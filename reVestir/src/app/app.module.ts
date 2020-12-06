@@ -17,7 +17,11 @@ import { ClubeComponent } from './clube/clube.component';
 import { CarrinhoComponent } from './carrinho/carrinho.component';
 import { CadastrarComponent } from './cadastrar/cadastrar.component';
 import { LoginComponent } from './login/login.component';
+<<<<<<< HEAD
 import { BlogComponent } from './blog/blog.component';
+=======
+import { SobreComponent } from './sobre/sobre.component';
+>>>>>>> 935dcda6317fdab420cf972f85b2520a10e30848
 
 @NgModule({
   declarations: [
@@ -32,7 +36,11 @@ import { BlogComponent } from './blog/blog.component';
     CarrinhoComponent,
     CadastrarComponent,
     LoginComponent,
+<<<<<<< HEAD
     BlogComponent
+=======
+    SobreComponent
+>>>>>>> 935dcda6317fdab420cf972f85b2520a10e30848
   ],
   imports: [
     BrowserModule,

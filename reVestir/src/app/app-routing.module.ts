@@ -10,6 +10,7 @@ import { LojasComponent } from './lojas/lojas.component';
 import { AuthGuard } from './service/auth.guard';
 import { ShopComponent } from './shop/shop.component';
 import { TrocaComponent } from './troca/troca.component';
+import { SobreComponent } from './sobre/sobre.component';
 
 const routes: Routes = [
   {path: '', redirectTo: 'home', pathMatch: 'full'},
@@ -21,10 +22,13 @@ const routes: Routes = [
   {path: 'clube', component: ClubeComponent},
   {path: 'lojas', component: LojasComponent},
   {path: 'troca', component: TrocaComponent},
+<<<<<<< HEAD
   {path: 'blog', component: BlogComponent}
 
+=======
+  {path: 'sobre', component: SobreComponent}
+>>>>>>> 935dcda6317fdab420cf972f85b2520a10e30848
 ];
-
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]
