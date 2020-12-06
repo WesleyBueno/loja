@@ -14,3 +14,7 @@ body{
 .jumbotron {
     background-color: #FFD5BE;
 }
+
+.container{
+    margin-bottom: 50px;
+}
