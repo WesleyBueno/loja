@@ -171,4 +171,11 @@
     font-weight: 900;
     cursor: pointer;
     border-radius: 17px;
+    transition: 0.3s;
+}
+
+.wrapper .btns button:hover{
+    background-color: #fff;
+    border-color: #f0356d;
+    color: #f0356d;
 }

@@ -9,7 +9,6 @@ footer {
 ul.social-network {
     list-style: none;
     display: inline;
-  
     padding: 0;
   }
   
@@ -21,6 +20,7 @@ ul.social-network {
   
   .faFacebook, .faLinkedin, .faInstagram{
       color: white;
+      transition: 0.3s;
   }
   
   .faFacebook:hover{
@@ -32,5 +32,5 @@ ul.social-network {
   }
   
   .faInstagram:hover{
-  color: #C13584;
+  color: #ec882b;
   }
