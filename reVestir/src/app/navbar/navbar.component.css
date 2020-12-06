@@ -11,3 +11,9 @@
 .navbar a:hover{
     color: black;
 }
+
+.fa-shopping-cart, .fa-bars {
+    color: aliceblue;
+    font-size: 1.65em;
+    text-align: center;
+}
