@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { AuthService } from '../service/auth.service';
+import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
+import { faBars } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-navbar',
@@ -9,6 +11,9 @@ import { AuthService } from '../service/auth.service';
 })
 export class NavbarComponent implements OnInit {
 
+  faShoppingCart = faShoppingCart
+  faBars = faBars
+  
   constructor(
     private router: Router,
     public authService: AuthService

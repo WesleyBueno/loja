@@ -1,4 +1,4 @@
-import { Component, ElementRef, NgModule, OnInit, ViewChild } from '@angular/core';
+import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 
 declare var paypal;
 
