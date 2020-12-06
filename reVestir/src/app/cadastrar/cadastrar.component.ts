@@ -34,7 +34,7 @@ export class CadastrarComponent implements OnInit {
       })
 
       this.router.navigate(['/login'])
-   
+      
       alert('Usuário cadastrado com sucesso!')
     } else {
       alert('Suas senhas não conferem')
