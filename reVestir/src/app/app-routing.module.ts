@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+import { BlogComponent } from './blog/blog.component';
 import { CadastrarComponent } from './cadastrar/cadastrar.component';
 import { CarrinhoComponent } from './carrinho/carrinho.component';
 import { ClubeComponent } from './clube/clube.component';
@@ -23,8 +24,10 @@ const routes: Routes = [
   {path: 'lojas', component: LojasComponent},
   {path: 'troca', component: TrocaComponent},
   {path: 'sobre', component: SobreComponent},
+  {path: 'blog', component: BlogComponent},
   {path: 'pagamento', component: PagamentoComponent}
 ];
+
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]
