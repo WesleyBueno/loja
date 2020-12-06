@@ -1,4 +1,10 @@
-/* footer social icons */
+footer {
+  background-color: #FF487E;
+}
+
+.color{
+  background-color: #FF487E;
+}
 
 ul.social-network {
     list-style: none;
