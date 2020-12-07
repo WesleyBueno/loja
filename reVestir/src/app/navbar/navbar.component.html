@@ -30,7 +30,9 @@
             <li class="nav-item">
                 <a class="nav-link " routerLink='/blog'>Blog</a>
             </li>
-            <fa-icon [icon]="faShoppingCart" class="fa fa-shopping-cart"></fa-icon>
+            <div class="icone">
+            <fa-icon [icon]="faShoppingCart" class="fa fa-shopping-cart" routerLink ='/carrinho'></fa-icon>
+        </div>
         </ul>
         <div *ngIf="!authService.logado()">
             <a class="btn btn-outline-light mr-2" routerLink="/login">Login</a>
