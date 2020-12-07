@@ -51,3 +51,8 @@ transition: 0.3s;
 .faInstagram:hover{
     color: #ec882b;
     }
+
+.foto-perfil{
+    height: 230px;
+    width: 200px;
+}
