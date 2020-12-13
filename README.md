@@ -7,3 +7,7 @@ Pensando nisso, criamos uma solução omnichannel que integra lojas físicas, ma
 Utilizamos as tecnologias HTML5, CSS3, JavaScript, Angular, TypeScrypt, Bootstrap, API de pagamento do PayPal e API de Acessibilidade da VLibras.
 
 Para executar este projeto na sua máquina, basta clonar o repositório, abrir com o VSCode e instalar os módulos do Node com npm install e rodar o servidor com ng serve (localhost:4200).
+
+
+
+[![Demonstração Badge](https://img.shields.io/badge/-Instagram-2931cc?style=flat-square&logo=Instagram&logoColor=white&link=https://drive.google.com/file/d/1dxDpJda9W80TE61tFwHcd0ZcvolxSvhc/view?usp=sharing)](https://drive.google.com/file/d/1dxDpJda9W80TE61tFwHcd0ZcvolxSvhc/view?usp=sharing)
