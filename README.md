@@ -18,7 +18,7 @@ Outra área incrível da (Re)Vestir-se é a de Trocas! Oferecemos às nossas cli
 Pensando nisso, criamos uma solução omnichannel que integra lojas físicas, marketplace em uma plataforma digital com acessibilidade, redes sociais e tudo isso feito de forma a garantir a melhor experiência para o usuário.
  </p>
 
- <h2Tecnologias</h2>
+ <h2>Tecnologias</h2>
 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
