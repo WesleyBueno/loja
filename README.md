@@ -1,7 +1,5 @@
 
 <h1 align="center">
-    <img alt="(Re)vista-se" src="./assets/(Re)vista-se.png" />
-    <br>
     (Re)Vista-se
 </h1>
 
@@ -20,21 +18,21 @@ Outra área incrível da (Re)Vestir-se é a de Trocas! Oferecemos às nossas cli
 Pensando nisso, criamos uma solução omnichannel que integra lojas físicas, marketplace em uma plataforma digital com acessibilidade, redes sociais e tudo isso feito de forma a garantir a melhor experiência para o usuário.
  </p>
 
- ##Tecnologias
+ <h2Tecnologias</h2>
 
- -<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
- -<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
- -<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
- -<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br>
- -<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br>
- -<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><br>
- -[![API Badge](https://img.shields.io/badge/-Pay%20Pal-2931cc?style=flat-square&logo=PayPal&logoColor=white&link=https://www.paypal.com/br/webapps/mpp/merchant-integration/solution/direct)](https://www.paypal.com/br/webapps/mpp/merchant-integration/solution/direct)<br>
- -[![API Badge](https://img.shields.io/badge/-V%20Libras-2931cc?style=flat-square&logo=&logoColor=white&link=https://softwarepublico.gov.br/gitlab/vlibras/vlibras-api](https://softwarepublico.gov.br/gitlab/vlibras/vlibras-api)<br>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
+ <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br>
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br>
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><br>
+ 
+ [![API Badge](https://img.shields.io/badge/-Pay%20Pal-2931cc?style=flat-square&logo=PayPal&logoColor=white&link=https://www.paypal.com/br/webapps/mpp/merchant-integration/solution/direct)](https://www.paypal.com/br/webapps/mpp/merchant-integration/solution/direct)<br>
+ 
+ [![API Badge](https://img.shields.io/badge/-Vlibras-2931cc?style=flat-square&logo=Demonstração&logoColor=white&link=https://softwarepublico.gov.br/gitlab/vlibras/vlibras-api)](https://softwarepublico.gov.br/gitlab/vlibras/vlibras-api)<br>
 
 
-Utilizamos as tecnologias HTML5, CSS3, JavaScript, Angular, TypeScrypt, Bootstrap, API de pagamento do PayPal e API de Acessibilidade da VLibras.
-
-Para executar este projeto na sua máquina, basta clonar o repositório, abrir com o VSCode e instalar os módulos do Node com npm install e rodar o servidor com ng serve (localhost:4200).
+<h4>Para executar este projeto na sua máquina, basta clonar o repositório, abrir com o VSCode e instalar os módulos do Node com npm install e rodar o servidor com ng serve (localhost:4200).</h4>
 
 
 
