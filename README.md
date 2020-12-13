@@ -10,4 +10,4 @@ Para executar este projeto na sua máquina, basta clonar o repositório, abrir c
 
 
 
-[![Demonstração Badge](https://img.shields.io/badge/-Instagram-2931cc?style=flat-square&logo=Demonstração&logoColor=white&link=https://drive.google.com/file/d/1dxDpJda9W80TE61tFwHcd0ZcvolxSvhc/view?usp=sharing)](https://drive.google.com/file/d/1dxDpJda9W80TE61tFwHcd0ZcvolxSvhc/view?usp=sharing)
+[![Demonstração Badge](https://img.shields.io/badge/-Demonstração-2931cc?style=flat-square&logo=Demonstração&logoColor=white&link=https://drive.google.com/file/d/1dxDpJda9W80TE61tFwHcd0ZcvolxSvhc/view?usp=sharing)](https://drive.google.com/file/d/1dxDpJda9W80TE61tFwHcd0ZcvolxSvhc/view?usp=sharing)
