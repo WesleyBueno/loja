@@ -20,16 +20,16 @@ Pensando nisso, criamos uma solução omnichannel que integra lojas físicas, ma
 
  <h2>Tecnologias</h2>
 
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br>
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br>
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><br>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
  
- [![API Badge](https://img.shields.io/badge/-Pay%20Pal-2931cc?style=flat-square&logo=PayPal&logoColor=white&link=https://www.paypal.com/br/webapps/mpp/merchant-integration/solution/direct)](https://www.paypal.com/br/webapps/mpp/merchant-integration/solution/direct)<br>
+ [![API Badge](https://img.shields.io/badge/-Pay%20Pal-2931cc?style=flat-square&logo=PayPal&logoColor=white&link=https://www.paypal.com/br/webapps/mpp/merchant-integration/solution/direct)](https://www.paypal.com/br/webapps/mpp/merchant-integration/solution/direct)
  
- [![API Badge](https://img.shields.io/badge/-Vlibras-2931cc?style=flat-square&logo=Demonstração&logoColor=white&link=https://softwarepublico.gov.br/gitlab/vlibras/vlibras-api)](https://softwarepublico.gov.br/gitlab/vlibras/vlibras-api)<br>
+ [![API Badge](https://img.shields.io/badge/-Vlibras-2931cc?style=flat-square&logo=Demonstração&logoColor=white&link=https://softwarepublico.gov.br/gitlab/vlibras/vlibras-api)](https://softwarepublico.gov.br/gitlab/vlibras/vlibras-api)
 
 
 <h4>Para executar este projeto na sua máquina, basta clonar o repositório, abrir com o VSCode e instalar os módulos do Node com npm install e rodar o servidor com ng serve (localhost:4200).</h4>
